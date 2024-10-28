@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GavinReid82/website_projects.git/main?labpath=biodiversity.ipynb)
+# Project Notebooks
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/GavinReid82/website_projects.git/main?labpath=biodiversity.ipynb
+- [Launch biodiversity.ipynb on MyBinder](https://mybinder.org/v2/gh/GavinReid82/website_projects/main?labpath=notebooks/biodiversity.ipynb)
+- [Launch Page_Funnel_Visits.ipynb on MyBinder](https://mybinder.org/v2/gh/GavinReid82/website_projects/main?labpath=notebooks/Page_Funnel_Visits.ipynb)
+- [Launch logistic_regression.ipynb on MyBinder](https://mybinder.org/v2/gh/GavinReid82/website_projects/main?labpath=notebooks/logistic_regression.ipynb)
